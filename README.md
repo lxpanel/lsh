@@ -1,2 +1,3 @@
 # lsh
-shell entirely written in lua
+shell entirely written in lua.
+still working on this so dont expect much
