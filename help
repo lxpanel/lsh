@@ -1,0 +1,4 @@
+print("lfetch -- print system info")
+print("name -- print OS and architecture")
+print("hostname -- print device name")
+print("help -- display this file")
